@@ -21,3 +21,11 @@ El código se divide en los siguientes módulos:
   learning para la identificación de enfermedades en cultivos.
 </li>
 </lu>
+
+### Licencias y derechos de autor
+
+El código de este repositorio está licenciado bajo la licencia EAFIT: [https://www.eafit.edu.co/institucional/reglamentos/Documents/reglamento-propiedad-intelectual-enero-2018-1.pdf]
+
+Esta licencia permite la redistribución y modificación del código sin restricciones, **siempre que se cite al autor original y se mantenga la licencia original.**
+
+Los derechos de autor de este trabajo pertenecen a Manuela Larrea-Gomez y a la Universidad EAFIT. Cualquier uso comercial del código debe ser autorizado por los titulares de los derechos de autor.
