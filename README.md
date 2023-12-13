@@ -8,7 +8,9 @@ Fecha: 02-03-2023
 
 ### Contenido
 
-Este repositorio contiene código para el análisis de enfermedades en cultivos mediante imágenes multiespectrales. El enfoque propuesto se basa en el uso de índices de vegetación dinámicos, los cuales se calculan a partir de las bandas espectrales de las imágenes. Estos índices permiten cuantificar la salud de los cultivos y, por lo tanto, identificar áreas afectadas por enfermedades.
+Este repositorio contiene código para el análisis de enfermedades en cultivos mediante imágenes multiespectrales. El enfoque propuesto se basa en el uso de índices de vegetación dinámicos, los cuales se calculan a partir de las bandas espectrales de las imágenes. Estos índices permiten cuantificar la salud de los cultivos y, por lo tanto, identificar áreas afectadas por enfermedades. <br>
+Este enfoque se basa en una extrapolación de los modelos tradicionalmente empleaados para el análisis de dispersión de contaminantes en la atmósfera. 
+
 
 El código se divide en los siguientes módulos:
 
